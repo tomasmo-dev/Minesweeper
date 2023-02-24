@@ -124,7 +124,7 @@
             // 
             this.fieldHeight.Location = new System.Drawing.Point(171, 103);
             this.fieldHeight.Maximum = new decimal(new int[] {
-            20,
+            9,
             0,
             0,
             0});
@@ -146,7 +146,7 @@
             // 
             this.fieldWidth.Location = new System.Drawing.Point(171, 55);
             this.fieldWidth.Maximum = new decimal(new int[] {
-            20,
+            9,
             0,
             0,
             0});
